@@ -262,6 +262,9 @@ As of version [2.1](https://mountainduck.io/changelog/), extended attributes are
 
 If you want to delete metadata files, you can open a *Terminal.app* window and enter `dot_clean -m <folder>`.
 
+**Quick Look**<br/>
+Preview for files only work downloaded files with _In Sync_ or _Up to Date_ [status](../sync/index.md#status-of-files) in _Smart Synchronization_ or _Integrated_ connect mode.
+
 ````
 ````{group-tab} Windows
 

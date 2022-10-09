@@ -49,6 +49,10 @@ Volumes are mounted in the *Volumes* folder in the [application support director
 The default is set to `~/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes.noindex`.
 ````
 
+```{attention}
+Custom mount location is not honoured in _Integrated_ connect mode.
+```
+
 ### Cache Location
 
 `````{tabs}
